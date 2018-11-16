@@ -1,0 +1,28 @@
+spring:
+    #应用唯一标识
+    application:
+        name: ace-center
+
+server:
+    port: 8761 #启动端口
+
+eureka:
+    server:
+      #自我保护机制（生产环境建议开启）
+      enable-self-preservation: false
+
+    instance:
+      #主机名
+      hostname: 127.0.0.1
+      #优先使用IP地址作为主机名的标识
+      prefer-ip-address: true
+    client:
+        #是否将自身的实例信息注册到Eureka服务端(注册中心集群环境下需开启)
+        register-with-eureka: false  #false:不作为一个客户端注册到注册中心
+        #是否从Euarka服务端获取注册信息(注册中心集群环境下需开启)
+        fetch-registry: false      #为true时，可以启动，但报异常：Cannot execute request on any known server
+        #服务地址
+        service-url:
+             #默认区
+             defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+
