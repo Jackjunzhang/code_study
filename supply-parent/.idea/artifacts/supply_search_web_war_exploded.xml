@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="supply-search-web:war exploded">
+    <output-path>$PROJECT_DIR$/supply-search-web/target/supply-search-web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="supply-search-web" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/supply-search-web/target/supply-search-web/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="supply-search-web/web/Web" />
+    </root>
+  </artifact>
+</component>

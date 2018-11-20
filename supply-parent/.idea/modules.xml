@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/supply-common/supply-common.iml" filepath="$PROJECT_DIR$/supply-common/supply-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-dao/supply-dao.iml" filepath="$PROJECT_DIR$/supply-dao/supply-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-generate/supply-generate.iml" filepath="$PROJECT_DIR$/supply-generate/supply-generate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-news-interface/supply-news-interface.iml" filepath="$PROJECT_DIR$/supply-news-interface/supply-news-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-news-service/supply-news-service.iml" filepath="$PROJECT_DIR$/supply-news-service/supply-news-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-news-web/supply-news-web.iml" filepath="$PROJECT_DIR$/supply-news-web/supply-news-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-parent.iml" filepath="$PROJECT_DIR$/supply-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-pojo/supply-pojo.iml" filepath="$PROJECT_DIR$/supply-pojo/supply-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-product-interface/supply-product-interface.iml" filepath="$PROJECT_DIR$/supply-product-interface/supply-product-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-product-service/supply-product-service.iml" filepath="$PROJECT_DIR$/supply-product-service/supply-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-product-web/supply-product-web.iml" filepath="$PROJECT_DIR$/supply-product-web/supply-product-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-recored-interface/supply-recored-interface.iml" filepath="$PROJECT_DIR$/supply-recored-interface/supply-recored-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-recored-service/supply-recored-service.iml" filepath="$PROJECT_DIR$/supply-recored-service/supply-recored-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-recored-web/supply-recored-web.iml" filepath="$PROJECT_DIR$/supply-recored-web/supply-recored-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-search-interface/supply-search-interface.iml" filepath="$PROJECT_DIR$/supply-search-interface/supply-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-search-service/supply-search-service.iml" filepath="$PROJECT_DIR$/supply-search-service/supply-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-search-web/supply-search-web.iml" filepath="$PROJECT_DIR$/supply-search-web/supply-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-user-interface/supply-user-interface.iml" filepath="$PROJECT_DIR$/supply-user-interface/supply-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-user-service/supply-user-service.iml" filepath="$PROJECT_DIR$/supply-user-service/supply-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supply-user-web/supply-user-web.iml" filepath="$PROJECT_DIR$/supply-user-web/supply-user-web.iml" />
+    </modules>
+  </component>
+</project>
